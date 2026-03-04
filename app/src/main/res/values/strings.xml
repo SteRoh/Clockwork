@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clockwork</string>
+
+    <!-- Home -->
+    <string name="home_title">Uhrzeit lernen</string>
+    <string name="home_start">Los geht\'s!</string>
+    <string name="home_talers">Taler: %d</string>
+
+    <!-- Lessons -->
+    <string name="lessons_title">Lektionen</string>
+    <string name="lesson_1">Volle Stunde</string>
+    <string name="lesson_2">Halbe Stunde</string>
+    <string name="lesson_3">Viertel nach</string>
+    <string name="lesson_4">Viertel vor</string>
+    <string name="lesson_5">Fünf-Minuten-Schritte</string>
+    <string name="lesson_6">Digitale Uhr</string>
+    <string name="lesson_7">Zeit im Alltag</string>
+
+    <!-- Level -->
+    <string name="level">Level %d</string>
+    <string name="check">Prüfen</string>
+    <string name="next">Weiter</string>
+    <string name="back">Zurück</string>
+    <string name="menu">Menü</string>
+
+    <!-- Tasks -->
+    <string name="task_set_clock">Stelle %s ein</string>
+    <string name="task_which_time">Welche Uhrzeit zeigt die Uhr?</string>
+    <string name="task_everyday">Wann gehst du in die Schule?</string>
+
+    <!-- Feedback -->
+    <string name="feedback_correct">Super!</string>
+    <string name="feedback_try_again">Versuch es nochmal!</string>
+    <string name="feedback_talers_earned">+%d Taler</string>
+
+    <!-- Difficulty -->
+    <string name="difficulty_easy">Einfach</string>
+    <string name="difficulty_medium">Mittel</string>
+    <string name="difficulty_hard">Schwer</string>
+</resources>

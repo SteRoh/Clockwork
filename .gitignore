@@ -1,0 +1,46 @@
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.code-workspace
+
+# Kotlin
+.kotlin/
+
+# Gradle
+.gradle/
+build/
+
+# Android
+/local.properties
+*.apk
+*.aab
+*.ap_
+*.dex
+captures/
+.externalNativeBuild/
+.cxx/
+output/
+
+# Android Studio / IntelliJ
+*.hprof
+
+# OS
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs & temp
+*.log
+*.tmp
+*.temp
+*.swp
+*~
+
+# Keystores (keep out of repo)
+*.jks
+*.keystore
